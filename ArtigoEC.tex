@@ -9,10 +9,10 @@
 
 \title{EASYCODE: UM AMBIENTE DE TECNOLOGIAS DE APOIO PARA O ENSINO DE LÓGICA DE PROGRAMAÇÃO}
 
-\author{Daniela F. Feitosa \inst{1}, Eduardo N. B. Neves \inst{2}, Jucimar B. Souza \inst{1}, Emmerson S. R. Silva \inst{3} }
+\author{Daniela F. Feitosa \inst{1}, Eduardo N. B. Neves \inst{1}, Emmerson S. R. Silva \inst{1}, Jucimar B. Souza \inst{1}}
 
 \address{Instituto Federal de Educação, Ciência e Tecnologia do Amazonas \\ Campus Manaus Centro (IFAM-CMC)
-  \email{\{danielaferreira1133, eddunic, jucibs, emmsr2004\}@gmail.com}
+  \email{\{danielaferreira1133, eddunic,  emmsr2004, jucibs\}@gmail.com}
 }
 
 \begin{document} 
@@ -20,23 +20,26 @@
 \maketitle
 
 \begin{abstract}
-This research plan presents the scientific contribution aimed at EasyCode software, developed by IFAM-CMC students in 2017, in order to adapt it to students who have difficulty applying the programming logic of the imperative paradigm in solving computational problems. It will consist of application of the cognitive domain of the Revised Bloom Taxonomy (ANDERSON et al., 2001) together with graphical representations (flowcharts and simulators of aspects of the educational field under study), gamification based on the categories of said domain of taxonomy, and robotics in order to provide an understanding of computational problems according to the types of learning. The aim is to encourage the learning of imperative programming languages. The application of this set of methods in the teaching-learning process will allow programming concepts to be understood in a playful way.
+This article presents the scientific contribution aimed at the EasyCode software, developed by IFAM-CMC students in 2017, aiming to adapt it to students who have difficulty applying the programming logic of the imperative paradigm in the resolution of computational problems. The application is being developed in the web platform and will consist of visual programming based on programming blocks, flowcharts and application of the cognitive domain of the Revised Bloom Taxonomy (ANDERSON et al., 2001) in a future gamification in order to stimulate the assimilation of concepts of logic. The technologies that will used in the teaching-learning process will allow programming concepts to be understood in a playful way.
+
 \end{abstract}
      
 \begin{resumo}
-Este plano de pesquisa apresenta a contribuição científica objetivada para o software EasyCode, desenvolvido por alunos do IFAM-CMC em 2017, visando adequá-lo aos estudantes que têm dificuldade em aplicar a lógica de programação do paradigma imperativo na resolução de problemas computacionais. Consistirá na aplicação do domínio cognitivo da Taxonomia de Bloom Revisada (ANDERSON et al., 2001) em conjunto com representações gráficas (fluxogramas e simuladores de aspectos da vertente educacional em estudo), gamificação baseada nas categorias do referido domínio da taxonomia, e da robótica educacional a fim de proporcionar a compreensão de problemas computacionais de acordo com os tipos de aprendizagem. Objetiva-se incentivo ao aprendizado de linguagens da programação imperativa. A aplicação deste conjunto de métodos no processo de ensino-aprendizagem permitirá que conceitos da programação sejam compreendidos de maneira lúdica.
+Este artigo apresenta a contribuição científica objetivada para o software EasyCode, desenvolvido por alunos do IFAM-CMC em 2017, visando adequá-lo aos estudantes que têm dificuldade em aplicar a lógica de programação do paradigma imperativo na resolução de problemas computacionais. A aplicação está sendo desenvolvida na plataforma web e consistirá na programação visual com base em blocos de programação, fluxogramas e na aplicação do domínio cognitivo da Taxonomia de Bloom Revisada (ANDERSON et al., 2001) em uma futura gamificação a fim de estimular a assimilação dos conceitos da lógica. As tecnologias ao serem empregadas no processo de ensino-aprendizagem permitirão que conceitos da programação sejam compreendidos de maneira lúdica.
 \end{resumo}
 
 \section{Introdução}
-As dificuldades apresentadas no ensino de programação variam desde a abordagem utilizada para o ensino, à possíveis barreiras para a acessibilidade ou aspectos psicológicos. Dentre o conjunto de fatores que inviabilizam a compreensão da programação apontados por Gomes \textit{et al}. (2008), destacam-se a falta de motivação e a complexidade das linguagens de programação utilizadas em conjunto com o 	desenvolvimento da lógica.
+As dificuldades que inviabilizam a compreensão da programação variam desde a abordagem utilizada para o ensino até o problema na natureza cognitiva do aluno. Segundo Gomes \textit{et al.} (2008), dentre os possíveis fatores deste problema destacam-se o elevado nível de abstração da programação e a falta de motivação do próprio aluno. 
+\\Em um estudo de caso baseado na Taxonomia de Bloom e no Scratch, realizado por Araújo \textit{et al.} (2013), percebeu-se a necessidade de incentivo ao aprendizado e do uso de outros recursos visuais como base metodológica. Portanto, modificações na abordagem utilizada durante as aulas de lógica podem torná-las mais interativas e despertarem gradativamente o interesse do aluno, apesar das possíveis dificuldades enfrentadas (SILVA \textit{et al.}, 2017).
+\\O \textit{software} EasyCode desenvolvido por SILVA \textit{et al.} (2017) dispõe de um ambiente de programação visual baseado em blocos e desenvolvido em Java Swing para ser empregado no aprendizado de lógica de programação, veja Figura 1. Este \textit{software} apresenta limitações, como: só é executado localmente em uma máquina (requer \textit{download} do programa), converte o algoritmo apenas para a linguagem C e, além da má organização dos blocos, apresenta uma interface confusa e pouco atrativa. Objetiva-se neste trabalho, uma nova fase de desenvolvimento voltada à \textit{web} com conversão para multilinguagens e com a implementação de novas tecnologias que ampliem as funcionalidades para o público-alvo.
 
 \section{Metodologia} 
-Utilizar-se-á o domínio cognitivo da Taxonomia de Bloom Revisada para que ocorra a integração de abordagens de ensino que se adequem aos tipos de aprendizagem, considerando aspectos de adaptação dos blocos de comando.\\
-A partir da implantação do recurso de feedback, a gamificação será reforçada devido à simultânea verificação da montagem dos blocos. Caso a estrutura seja correspondente aos requisitos da linguagem, ao fim da codificação o sistema exibirá uma mensagem de congratulação pela conquista de acerto do código requerido.\\
-No processo de desenvolvimento deste projeto serão realizadas pesquisas com o público-alvo, especificamente alunos que possuem dificuldades em entender questões a respeito da vertente educacional a ser estudada. Por meio de perguntas a respeito da compreensão da referente lógica de programação com pessoas que possuem dificuldades ao estudá-la, será possível avaliar o nível de desenvoltura na resolução auxiliada com o software EasyCode. Tal procedimento auxiliará os ajustes da configuração do ambiente do software, bem como seus impasses até então dissimulados.
+Utilizar-se-á o domínio cognitivo da Taxonomia de Bloom Revisada que consiste nas categorias lembrar, entender, aplicar, analisar, avaliar e criar (FERRAZ \textit{et al.}, 2010) para que ocorra a integração de abordagens de ensino que se adequem aos tipos de aprendizagem. Esta será a base metodológica para a gamificação que será implementada no \textit{software} EasyCode, que contará com uma sessão de desafios onde o discente poderá revisar o conteúdo de lógica de programação imperativa (inicialmente as estruturas lógicas), codificar e gerar fluxogramas ou a montagem de blocos, testar os códigos produzidos e avaliá-los, além de produzir e planejar técnicas de resoluções diversas.
+\\Ademais, a taxonomia em conjunto com pesquisas quanti-qualitativas serão aplicadas para alunos do primeiro ano do ensino médio técnico em informática no IFAM-CMC para avaliar o nível de desenvoltura na resolução de problemas computacionais a partir do \textit{software} EasyCode.
+\\Como ferramentas de desenvolvimento do \textit{website} estão sendo aplicados os \textit{frameworks} Maven, Hibernate e Bootstrap; as bibliotecas JQuery e Blocky; o padrão de arquitetura MVC; a metodologia ágil SCRUM; o controle de versão pelo GitHub; e a API JDBC. No \textit{front-end}, além do Bootstrap, utiliza-se a linguagem HTML5, JavaScript e as folhas de estilo em CSS3. O padrão XML está voltado para armazenar os blocos de programação, os processos de fluxogramas e o código-fonte gerado pela interação entre usuário e \textit{software}. 
 
 
-\section{Resultados e Discussão}
+\section{Resultados Parciais e Discussão}
 	\begin{figure}[h]
 		\centering
 		\includegraphics[scale=0.2]{fig1.jpg}
@@ -44,9 +47,10 @@ No processo de desenvolvimento deste projeto serão realizadas pesquisas com o p
 		\label{fig1}
 	\end{figure}
 
-\section{Considerações Finais}
-Espera-se que as mudanças propostas colaborem com o processo de ensino-aprendizagem, por exemplo, permitindo que professores possam demonstrar de forma mais lúdica conceitos da programação e também que ocorra a adequação da abordagem de ensino aos tipos de aprendizagem. 
-Os consensos para a continuidade do projeto em questão possuem a intenção de aumentar a praticidade de uso do referido por meio da eficácia do planejado. 
+\section{Considerações Parciais}
+O EasyCode é um ambiente que proporciona os recursos da programação e da robótica para permitir que alunos com dificuldades em compreender a lógica de programação possam aprender a programar de maneira simples e prática. Espera-se que as mudanças propostas colaborem com o processo de ensino-aprendizagem, por exemplo, permitindo que professores possam demonstrar de forma mais lúdica conceitos da programação e também que ocorra a adequação da abordagem de ensino aos tipos de aprendizagem. 
+\\A visualização por meio de fluxogramas dos passos para se construir o algoritmo permitirá o entendimento da aplicação da codificação de maneira simples. A implantação da conversão entre multilinguagens de programação e da biblioteca Blocky da Google permitirá que a ferramenta se torne mais atrativa para qualquer estudante.
+\\Os alvitres para a continuidade do projeto em questão possuem a intenção de aumentar a usabilidade do referido por meio da eficácia do planejado. Através dos meios acessíveis impostos, pretende-se aumentar o alcance de uso do software por intermédio da implementação em plataforma \textit{web}. 
 
 \bibliographystyle{sbc}
 \bibliography{ArtigoEC}
