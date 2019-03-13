@@ -1,14 +1,14 @@
 % Encoding: UTF-8
 
 @Article{SILVA:2017,
-  author  = {{SILVA, E. S. R. and TAKANO, E. M. and SOUZA, J. B. and OLIVEIRA, M. V.}},
+  author  = {{SILVA, E. S. R., TAKANO, E. M., SOUZA, J. B., OLIVEIRA, M. V.}},
   title   = {EasyCode: Um Ambiente de Programação Visual para o Ensino de Lógica de Programação},
   journal = {Recife: $7 ^{\circ}$ Simpósio de Hipertexto e Tecnologias na Educação},
   year    = {2017},
 }
 
 @Article{ANDERSON:2001,
-  author  = {{ANDERSON, L. W. and KRATHWOHL, D. R. and AIRASIAN, P. W. and WITTROCK, M. C.}},
+  author  = {{ANDERSON et al.}},
   title   = {A Taxonomy for Learning, Teaching and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives},
   journal = {Nova York: Addison Wesley Longman, p. 336},
   year    = {2001},

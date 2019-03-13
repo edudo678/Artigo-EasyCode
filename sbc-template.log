@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  12 MAR 2019 23:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  12 MAR 2019 22:17
 entering extended mode
-**./ArtigoEC.tex
-(ArtigoEC.tex
+**./sbc-template.tex
+(sbc-template.tex
 LaTeX2e <2018-04-01> patch level 5
 (/home/eduardo/.miktex/texmfs/install/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
@@ -153,23 +153,24 @@ Package babel Warning: No hyphenation patterns were preloaded for
 (babel)                preloaded for \language=0 instead on input line 55.
 
 \l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
-)) (ArtigoEC.aux)
-\openout1 = `ArtigoEC.aux'.
+)) (sbc-template.aux)
+\openout1 = `sbc-template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 31.
 
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -267,112 +268,79 @@ G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 20.
+(Font)              <12> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
+(Font)              <8> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 20.
+(Font)              <6> on input line 33.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 33.
 
-Overfull \hbox (33.32579pt too wide) in paragraph at lines 20--20
- [][] 
- []
-
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 20.
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-LaTeX Font Info:    Try loading font information for OMS+pcr on input line 20.
+LaTeX Font Info:    Try loading font information for OMS+pcr on input line 33.
 
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 22.
-
-Underfull \hbox (badness 1383) in paragraph at lines 28--29
-[]\OT1/ptm/m/it/12 Este artigo apresenta a contribui[][]ao cient[]fica objetiv
-ada para
- []
-
-
-Underfull \hbox (badness 3009) in paragraph at lines 28--29
-\OT1/ptm/m/it/12 de programa[][]ao do paradigma imperativo na resolu[][]ao de p
-roblemas
- []
-
-
-Underfull \hbox (badness 1270) in paragraph at lines 28--29
-\OT1/ptm/m/it/12 Revisada [[]] em uma futura gamifica[][]ao a fim de
- []
-
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 35.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
-
-Underfull \hbox (badness 1122) in paragraph at lines 32--33
-\OT1/ptm/m/n/12 As dificuldades que inviabilizam a compreens[]ao da programa[][
-]ao variam desde a
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[]\OT1/ptm/m/n/12 O \OT1/ptm/m/it/12 software \OT1/ptm/m/n/12 EasyCode desenvol
-vido por Silva \OT1/ptm/m/it/12 et al. \OT1/ptm/m/n/12 (2017)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-\OT1/ptm/m/n/12 [[]]
- []
-
-[1
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+ [1
 
 {/home/eduardo/.miktex/texmfs/data/pdftex/config/pdftex.map}]
 <fig1.jpg, id=12, 254.3904pt x 232.2276pt>
 File: fig1.jpg Graphic file (type jpg)
 <use fig1.jpg>
-Package pdftex.def Info: fig1.jpg  used on input line 45.
-(pdftex.def)             Requested size: 50.87717pt x 46.44469pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 46.
+Package pdftex.def Info: fig1.jpg  used on input line 112.
+(pdftex.def)             Requested size: 213.39568pt x 194.81471pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 113.
+
 
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 46.
- [2 <./fig1.jpg>]
-Overfull \hbox (208.44879pt too wide) in paragraph at lines 56--58
-\OT1/ptm/m/n/12 the author names references in brackets, e.g. [[]],
- []
-
-(ArtigoEC.bbl) [3] (ArtigoEC.aux) ) 
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 113.
+<fig2.jpg, id=13, 205.7286pt x 234.1548pt>
+File: fig2.jpg Graphic file (type jpg)
+<use fig2.jpg>
+Package pdftex.def Info: fig2.jpg  used on input line 119.
+(pdftex.def)             Requested size: 128.0387pt x 145.73541pt.
+<table.jpg, id=14, 365.2044pt x 217.2918pt>
+File: table.jpg Graphic file (type jpg)
+<use table.jpg>
+Package pdftex.def Info: table.jpg  used on input line 137.
+(pdftex.def)             Requested size: 298.75264pt x 177.75932pt.
+ [2 <./fig1.jpg>] (sbc-template.bbl [3 <./fig2.jpg> <./table.jpg>]) [4] (sbc-te
+mplate.aux) ) 
 Here is how much of TeX's memory you used:
- 4446 strings out of 494888
- 66948 string characters out of 3178518
- 141710 words of memory out of 3000000
- 7996 multiletter control sequences out of 15000+200000
+ 4463 strings out of 494888
+ 67249 string characters out of 3178518
+ 138915 words of memory out of 3000000
+ 8012 multiletter control sequences out of 15000+200000
  21033 words of font info for 44 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 43i,10n,40p,843b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/eduardo/.miktex/texmfs/data/fonts/pk
-/ljfour/public/cm/dpi600/cmsy8.pk> </home/eduardo/.miktex/texmfs/data/fonts/pk/
-ljfour/public/cm/dpi600/cmr12.pk>{/home/eduardo/.miktex/texmfs/install/fonts/en
-c/dvips/base/8r.enc} </home/eduardo/.miktex/texmfs/data/fonts/pk/ljfour/public/
-cm/dpi600/cmsy10.pk> </home/eduardo/.miktex/texmfs/data/fonts/pk/ljfour/public/
-cm/dpi600/cmr8.pk></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/courier
-/ucrr8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb
-8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb><
-/home/eduardo/.miktex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/e
-duardo/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/eduardo/.
-miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ArtigoEC.pdf (3 pages, 131545 bytes).
+ 43i,10n,40p,847b,346s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/home/eduardo/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}
+ </home/eduardo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmsy10.pk>
+ </home/eduardo/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr8.pk></
+home/eduardo/.miktex/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></home/e
+duardo/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/eduard
+o/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/eduardo/.mikte
+x/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/eduardo/.miktex/texmf
+s/install/fonts/type1/urw/times/utmr8a.pfb></home/eduardo/.miktex/texmfs/instal
+l/fonts/type1/urw/times/utmri8a.pfb>
+Output written on sbc-template.pdf (4 pages, 202324 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
