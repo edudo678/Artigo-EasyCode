@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  12 MAR 2019 23:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  13 MAR 2019 21:26
 entering extended mode
 **./ArtigoEC.tex
 (ArtigoEC.tex
@@ -153,6 +153,7 @@ Package babel Warning: No hyphenation patterns were preloaded for
 (babel)                preloaded for \language=0 instead on input line 55.
 
 \l@portuges = a dialect from \language0
+\l@brazil = a dialect from \language\l@portuges 
 Package babel Info: Making " an active character on input line 145.
 )) (ArtigoEC.aux)
 \openout1 = `ArtigoEC.aux'.
@@ -295,20 +296,55 @@ LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 22.
 
-Underfull \hbox (badness 1383) in paragraph at lines 28--29
+Overfull \hbox (94.00339pt too wide) in paragraph at lines 23--24
+\OT1/ptm/m/it/12 [[]]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 []\OT1/ptm/m/it/12 Este artigo apresenta a contribui[][]ao cient[]fica objetiv
-ada para
+ada
  []
 
 
-Underfull \hbox (badness 3009) in paragraph at lines 28--29
-\OT1/ptm/m/it/12 de programa[][]ao do paradigma imperativo na resolu[][]ao de p
-roblemas
+Underfull \hbox (badness 1303) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 para o software EasyCode, desenvolvido por alunos do IFAM-CMC 
+em
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 28--29
-\OT1/ptm/m/it/12 Revisada [[]] em uma futura gamifica[][]ao a fim de
+Underfull \hbox (badness 1122) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 2017, visando adequ[]a-lo aos estudantes que t[]em dificuldade
+ em aplicar
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 a l[]ogica de programa[][]ao do paradigma imperativo na resolu
+[][]ao de
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 problemas computacionais. A aplica[][]ao est[]a sendo desenvol
+vida na
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 de programa[][]ao por meio da biblioteca Blocky da Google, flu
+xogramas
+ []
+
+
+Underfull \hbox (badness 1043) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 e na aplica[][]ao do dom[]nio cognitivo da Taxonomia de Bloom
+ Revisada
+ []
+
+
+Overfull \hbox (94.00339pt too wide) in paragraph at lines 28--29
+\OT1/ptm/m/it/12 [[]]
  []
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
@@ -319,60 +355,78 @@ Underfull \hbox (badness 1122) in paragraph at lines 32--33
 ]ao variam desde a
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-[]\OT1/ptm/m/n/12 O \OT1/ptm/m/it/12 software \OT1/ptm/m/n/12 EasyCode desenvol
-vido por Silva \OT1/ptm/m/it/12 et al. \OT1/ptm/m/n/12 (2017)
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-\OT1/ptm/m/n/12 [[]]
- []
-
 [1
 
 {/home/eduardo/.miktex/texmfs/data/pdftex/config/pdftex.map}]
-<fig1.jpg, id=12, 254.3904pt x 232.2276pt>
-File: fig1.jpg Graphic file (type jpg)
-<use fig1.jpg>
-Package pdftex.def Info: fig1.jpg  used on input line 45.
-(pdftex.def)             Requested size: 50.87717pt x 46.44469pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 46.
+<2017.png, id=12, 762.85pt x 461.725pt>
+File: 2017.png Graphic file (type png)
+<use 2017.png>
+Package pdftex.def Info: 2017.png  used on input line 37.
+(pdftex.def)             Requested size: 381.42407pt x 230.86194pt.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 38.
 
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 46.
- [2 <./fig1.jpg>]
-Overfull \hbox (208.44879pt too wide) in paragraph at lines 56--58
-\OT1/ptm/m/n/12 the author names references in brackets, e.g. [[]],
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 38.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\OT1/ptm/m/n/12 Utilizar-se-[]a o dom[]nio cognitivo da Taxonomia de Bloom Rev
+isada que
  []
 
-(ArtigoEC.bbl) [3] (ArtigoEC.aux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+\OT1/ptm/m/n/12 consiste nas categorias lembrar, entender, aplicar, analisar, a
+valiar e criar
+ []
+
+
+Underfull \hbox (badness 3009) in paragraph at lines 43--44
+\OT1/ptm/m/n/12 [[]] para que ocorra a integra[][]ao de
+ []
+
+[2 <./2017.png>]
+<bloc.png, id=20, 1027.84pt x 487.8225pt>
+File: bloc.png Graphic file (type png)
+<use bloc.png>
+Package pdftex.def Info: bloc.png  used on input line 49.
+(pdftex.def)             Requested size: 411.12872pt x 195.12553pt.
+<fig1.jpg, id=21, 254.3904pt x 232.2276pt>
+File: fig1.jpg Graphic file (type jpg)
+<use fig1.jpg>
+Package pdftex.def Info: fig1.jpg  used on input line 57.
+(pdftex.def)             Requested size: 50.87717pt x 46.44469pt.
+ [3 <./bloc.png> <./fig1.jpg>] (ArtigoEC.bbl) [4] (ArtigoEC.aux) ) 
 Here is how much of TeX's memory you used:
- 4446 strings out of 494888
- 66948 string characters out of 3178518
- 141710 words of memory out of 3000000
- 7996 multiletter control sequences out of 15000+200000
- 21033 words of font info for 44 fonts, out of 3000000 for 9000
+ 4466 strings out of 494888
+ 67141 string characters out of 3178518
+ 140847 words of memory out of 3000000
+ 8010 multiletter control sequences out of 15000+200000
+ 22792 words of font info for 46 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 43i,10n,40p,843b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
- </home/eduardo/.miktex/texmfs/data/fonts/pk
-/ljfour/public/cm/dpi600/cmsy8.pk> </home/eduardo/.miktex/texmfs/data/fonts/pk/
-ljfour/public/cm/dpi600/cmr12.pk>{/home/eduardo/.miktex/texmfs/install/fonts/en
-c/dvips/base/8r.enc} </home/eduardo/.miktex/texmfs/data/fonts/pk/ljfour/public/
-cm/dpi600/cmsy10.pk> </home/eduardo/.miktex/texmfs/data/fonts/pk/ljfour/public/
-cm/dpi600/cmr8.pk></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/courier
-/ucrr8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb
-8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb><
-/home/eduardo/.miktex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/e
-duardo/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/eduardo/.
-miktex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ArtigoEC.pdf (3 pages, 131545 bytes).
+ 43i,10n,40p,843b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+ </home/eduar
+do/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmsy8.pk> </home/eduard
+o/.miktex/texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr12.pk>{/home/eduardo/
+.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc} </home/eduardo/.miktex/texm
+fs/data/fonts/pk/ljfour/public/cm/dpi600/cmsy10.pk> </home/eduardo/.miktex/texm
+fs/data/fonts/pk/ljfour/public/cm/dpi600/cmr8.pk></home/eduardo/.miktex/texmfs/
+install/fonts/type1/urw/courier/ucrr8a.pfb></home/eduardo/.miktex/texmfs/instal
+l/fonts/type1/urw/helvetic/uhvb8a.pfb></home/eduardo/.miktex/texmfs/install/fon
+ts/type1/urw/helvetic/uhvbo8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/t
+ype1/urw/times/utmb8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw
+/times/utmbi8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/times/
+utmr8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/times/utmri8a.
+pfb>
+Output written on ArtigoEC.pdf (4 pages, 303743 bytes).
 PDF statistics:
- 59 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
