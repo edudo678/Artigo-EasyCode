@@ -1,23 +1,27 @@
 \begin{thebibliography}{}
 
-\bibitem[{ANDERSON, L. W. and KRATHWOHL, D. R. and AIRASIAN, P. W. and
-  WITTROCK, M. C.} 2001]{ANDERSON:2001}
-{ANDERSON, L. W. and KRATHWOHL, D. R. and AIRASIAN, P. W. and WITTROCK, M. C.}
-  (2001).
+\bibitem[ANDERSON et~al. 2001]{ANDERSON:2001}
+ANDERSON, L.~W., KRATHWOHL, D.~R., AIRASIAN, P.~W., and WITTROCK, M.~C. (2001).
 \newblock A taxonomy for learning, teaching and assessing: A revision of
   bloom’s taxonomy of educational objectives.
 \newblock {\em Nova York: Addison Wesley Longman}, page 336.
 
-\bibitem[{FERRAZ, A. P. C. M. and BELHOT, R. V.} 2010]{FERRAZ:2010}
-{FERRAZ, A. P. C. M. and BELHOT, R. V.} (2010).
-\newblock Taxonomia de bloom: revisão teórica e apresentação das
-  adequações do instrumento para definição de objetivos instrucionais.
-\newblock {\em Gest. Prod., São Carlos}, 17(n. 2):421--431.
+\bibitem[ARAÚJO et~al. 2013]{ARAUJO:2013}
+ARAÚJO, A. L. S.~O., SCAICO, P.~D., PAIVA, L.~F., RABÊLO, H.~M., SANTOS,
+  L.~L., PESSOA, F. I.~R., TARGINO, J.~M., and COSTA, L.~S. (2013).
+\newblock Aplicação da taxonomia de bloom no ensino de programação com
+  scratch.
+\newblock {\em II Congresso Brasileiro de Informática na Educação (CBIE
+  2013)}.
 
-\bibitem[{SILVA, E. S. R. and TAKANO, E. M. and SOUZA, J. B. and OLIVEIRA, M.
-  V.} 2017]{SILVA:2017}
-{SILVA, E. S. R. and TAKANO, E. M. and SOUZA, J. B. and OLIVEIRA, M. V.}
-  (2017).
+\bibitem[GOMES et~al. 2008]{GOMES:2008}
+GOMES, A., AREIAS, C., HENRIQUES, J., and MENDES, A.~J. (2008).
+\newblock Aprendizagem de programação de computadores: dificuldades e
+  ferramentas de suporte.
+\newblock {\em Revista Portuguesa de Pedagogia}, pages 161--179.
+
+\bibitem[SILVA et~al. 2017]{SILVA:2017}
+SILVA, E. S.~R., TAKANO, E.~M., SOUZA, J.~B., and OLIVEIRA, M.~V. (2017).
 \newblock Easycode: Um ambiente de programação visual para o ensino de
   lógica de programação.
 \newblock {\em Recife: $7 ^{\circ}$ Simpósio de Hipertexto e Tecnologias na

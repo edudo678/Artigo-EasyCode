@@ -1,14 +1,14 @@
 % Encoding: UTF-8
 
 @Article{SILVA:2017,
-  author  = {{SILVA, E. S. R. and TAKANO, E. M. and SOUZA, J. B. and OLIVEIRA, M. V.}},
+  author  = {EMMERSON SANTA RITA SILVA and ENDY MITSUYA TAKANO and JUCIMAR BRITO SOUZA and MIGUEL VANDERLEI OLIVEIRA},
   title   = {EasyCode: Um Ambiente de Programação Visual para o Ensino de Lógica de Programação},
   journal = {Recife: $7 ^{\circ}$ Simpósio de Hipertexto e Tecnologias na Educação},
   year    = {2017},
 }
 
 @Article{ANDERSON:2001,
-  author  = {{ANDERSON, L. W. and KRATHWOHL, D. R. and AIRASIAN, P. W. and WITTROCK, M. C.}},
+  author  = {LORIN W. ANDERSON and DAVID R. KRATHWOHL and PETER W. AIRASIAN and MERLIN C. WITTROCK},
   title   = {A Taxonomy for Learning, Teaching and Assessing: A Revision of Bloom’s Taxonomy of Educational Objectives},
   journal = {Nova York: Addison Wesley Longman},
   year    = {2001},
@@ -16,7 +16,7 @@
 }
 
 @Article{GOMES:2008,
-  author  = {{GOMES, A. and AREIAS, C. and HENRIQUES, J. and MENDES, A. J.}},
+  author  = {ANABELA GOMES AND CRISTIANA AREIAS and JOANA HENRIQUES and ANTONIO JOSE MENDES},
   title   = {Aprendizagem de programação de computadores: dificuldades e ferramentas de suporte},
   journal = {Revista Portuguesa de Pedagogia},
   year    = {2008},
@@ -24,20 +24,10 @@
 }
 
 @Article{ARAUJO:2013,
-  author  = {{ARAÚJO, A. L. S. O. and SCAICO, P. D. and PAIVA, L. F. and RABÊLO, H. M. and SANTOS, L. L. and PESSOA, F. I. R. and TARGINO, J. M. and COSTA, L. S.}},
+  author  = {ANA LIZ SOUTO OLIVEIRA ARAÚJO and PASQUELINE DANTAS SCAICO and LUIZ FERNANDO PAIVA and HÉVELLYN MORAIS RABÊLO and LUAN LUANA SANTOS and FRANCISCO ITALLO RIBEIRO PESSOA and JONAS MENDONÇA TARGINO and LEONARDO SANTOS COSTA},
   title   = {Aplicação da Taxonomia de Bloom no ensino de programação com Scratch},
   journal = {II Congresso Brasileiro de Informática na Educação (CBIE 2013)},
   year    = {2013},
-}
-
-@Article{FERRAZ:2010,
-  author  = {{FERRAZ, A. P. C. M. and BELHOT, R. V.}},
-  title   = {Taxonomia de Bloom: revisão teórica e apresentação das adequações do instrumento para definição de objetivos instrucionais},
-  journal = {Gest. Prod., São Carlos},
-  year    = {2010},
-  volume  = {17},
-  number  = {n. 2},
-  pages   = {421-431},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

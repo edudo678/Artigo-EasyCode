@@ -20,18 +20,18 @@
 \maketitle
 
 \begin{abstract}
-This article presents the scientific contribution aimed at the EasyCode software, developed by IFAM-CMC students in 2017, aiming to adapt it to students who have difficulty applying the programming logic of the imperative paradigm in the resolution of computational problems. The application is being developed on the web platform and will consist of visual programming based on programming blocks through Google's Blocky library, flowcharts and application of the cognitive domain of the Revised Bloom Taxonomy \cite{ANDERSON:2001} in a future gamification in order to stimulate the assimilation of concepts of logic. The technologies that will be used in the teaching-learning process will allow programming concepts to be understood in a playful way.
+This article presents the scientific contribution aimed at the EasyCode software, developed by IFAM-CMC students in 2017, aiming to adapt it to students who have difficulty applying the programming logic of the imperative paradigm in the resolution of computational problems. The application is being developed on the web platform and will consist of visual programming based on programming blocks through Google's Blockly library, flowcharts and application of the cognitive domain of the Revised Bloom Taxonomy \cite{ANDERSON:2001} in a future gamification in order to stimulate the assimilation of concepts of logic.
 
 \end{abstract}
      
 \begin{resumo}
-Este artigo apresenta a contribuição científica objetivada para o software EasyCode, desenvolvido por alunos do IFAM-CMC em 2017, visando adequá-lo aos estudantes que têm dificuldade em aplicar a lógica de programação do paradigma imperativo na resolução de problemas computacionais. A aplicação está sendo desenvolvida na plataforma web e consistirá na programação visual com base em blocos de programação por meio da biblioteca Blocky da Google, fluxogramas e na aplicação do domínio cognitivo da Taxonomia de Bloom Revisada \cite{ANDERSON:2001} em uma futura gamificação a fim de estimular a assimilação dos conceitos da lógica. As tecnologias ao serem empregadas no processo de ensino-aprendizagem permitirão que conceitos da programação sejam compreendidos de maneira lúdica.
+Este artigo apresenta a contribuição científica objetivada para o software EasyCode, desenvolvido por alunos do IFAM-CMC em 2017, visando adequá-lo aos estudantes que têm dificuldade em aplicar a lógica de programação do paradigma imperativo na resolução de problemas computacionais. A aplicação está sendo desenvolvida na plataforma web e consistirá na programação visual com base em blocos de programação por meio da biblioteca Blockly da Google, fluxogramas e na aplicação do domínio cognitivo da Taxonomia de Bloom Revisada \cite{ANDERSON:2001} em uma futura gamificação a fim de estimular a assimilação dos conceitos da lógica.
 \end{resumo}
 
 \section{Introdução} 
-As dificuldades que inviabilizam a compreensão da programação variam desde a abordagem utilizada para o ensino até o problema na natureza cognitiva do aluno. Segundo Gomes \textit{et al.} (2008), dentre os possíveis fatores deste problema destacam-se o elevado nível de abstração da programação e a falta de motivação do próprio aluno. 
-\par Em um estudo de caso baseado na Taxonomia de Bloom e no Scratch, realizado por Araújo \textit{et al.} (2013), percebeu-se a necessidade de incentivo ao aprendizado e do uso de outros recursos visuais como base metodológica. Portanto, modificações na abordagem utilizada durante as aulas de lógica podem torná-las mais interativas e despertarem gradativamente o interesse do aluno, apesar das possíveis dificuldades enfrentadas \cite{SILVA:2017}.
-\par O \textit{software} EasyCode desenvolvido por Silva \textit{et al.} (2017) dispõe de um ambiente de programação visual baseado em blocos e desenvolvido em Java Swing para ser empregado no aprendizado de lógica de programação, veja Figura 1. Este \textit{software} apresenta limitações, como: só é executado localmente em uma máquina (requer \textit{download} do programa), converte o algoritmo apenas para a linguagem C e, além da má organização dos blocos, apresenta uma interface confusa e pouco atrativa. Objetiva-se neste trabalho, uma nova fase de desenvolvimento voltada à \textit{web} com conversão para multilinguagens e com a implementação de novas tecnologias que ampliem as funcionalidades para o público-alvo.
+As dificuldades que inviabilizam a compreensão da programação variam desde a abordagem utilizada para o ensino até o problema na natureza cognitiva do aluno. Segundo \cite{GOMES:2008}, dentre os possíveis fatores deste problema destacam-se o elevado nível de abstração da programação e a falta de motivação do próprio aluno. 
+\par Em um estudo de caso baseado na Taxonomia de Bloom e no Scratch, realizado por \cite{ARAUJO:2013}, percebeu-se a necessidade de incentivo ao aprendizado e do uso de outros recursos visuais como base metodológica. Portanto, modificações na abordagem utilizada durante as aulas de lógica podem torná-las mais interativas e despertarem gradativamente o interesse do aluno, apesar das possíveis dificuldades enfrentadas \cite{SILVA:2017}.
+\par O \textit{software} EasyCode desenvolvido por Silva \textit{et al.} (2017) dispõe de um ambiente de programação visual baseado em blocos e desenvolvido em Java Swing para ser empregado no aprendizado de lógica de programação, veja Figura~\ref{fig1}. Este \textit{software} apresenta limitações, como: só é executado localmente em uma máquina (requer \textit{download} do programa), converte o algoritmo apenas para a linguagem C e, além da má organização dos blocos, apresenta uma interface confusa e pouco atrativa. Objetiva-se neste trabalho, uma nova fase de desenvolvimento voltada à \textit{web} com conversão para multilinguagens e com a implementação de novas tecnologias que ampliem as funcionalidades para o público-alvo.
 	\begin{figure}[h]
 		\centering
 		\includegraphics[scale=0.5]{2017.png}
@@ -40,7 +40,7 @@ As dificuldades que inviabilizam a compreensão da programação variam desde a 
 	\end{figure}
 
 \section{Metodologia} 
-Utilizar-se-á o domínio cognitivo da Taxonomia de Bloom Revisada que consiste nas categorias lembrar, entender, aplicar, analisar, avaliar e criar \cite{FERRAZ:2010} para que ocorra a integração de abordagens de ensino que se adequem aos tipos de aprendizagem. Esta será a base metodológica para a gamificação que será implementada no \textit{software} EasyCode, que contará com uma sessão de desafios onde o discente poderá revisar o conteúdo de lógica de programação imperativa (inicialmente as estruturas lógicas), codificar e gerar fluxogramas ou a montagem de blocos (veja Figura 2), testar os códigos produzidos e avaliá-los, além de produzir e planejar técnicas de resoluções diversas.
+Utilizar-se-á o domínio cognitivo da Taxonomia de Bloom Revisada que consiste nas categorias lembrar, entender, aplicar, analisar, avaliar e criar \cite{ANDERSON:2001} para que ocorra a integração de abordagens de ensino que se adequem aos tipos de aprendizagem. Esta será a base metodológica para a gamificação que será implementada no EasyCode, que contará com uma sessão de desafios onde o discente poderá revisar o conteúdo de lógica de programação imperativa (inicialmente as estruturas lógicas), codificar e gerar fluxogramas ou a montagem de blocos (veja Figura~\ref{fig2}), testar os códigos produzidos e avaliá-los, além de produzir e planejar técnicas de resoluções diversas.
 \par Ademais, a taxonomia em conjunto com pesquisas quanti-qualitativas serão aplicadas para alunos do primeiro ano do ensino médio técnico em informática no IFAM-CMC para avaliar o nível de desenvoltura na resolução de problemas computacionais a partir do \textit{software} EasyCode.
 \par Como ferramentas de desenvolvimento do \textit{website} estão sendo aplicados os \textit{frameworks} Maven, Hibernate e Bootstrap; as bibliotecas JQuery e Blockly; o padrão de arquitetura MVC; a metodologia ágil SCRUM; o controle de versão pelo GitHub; e a API JDBC. No \textit{front-end}, além do Bootstrap, utiliza-se a linguagem HTML5, JavaScript e as folhas de estilo em CSS3. O padrão XML está voltado para armazenar os blocos de programação, os processos de fluxogramas e o código-fonte gerado pela interação entre usuário e \textit{software}. 
 
@@ -52,20 +52,22 @@ Utilizar-se-á o domínio cognitivo da Taxonomia de Bloom Revisada que consiste 
 	\end{figure}
 
 \section{Resultados Parciais e Discussão}
-O mapeamento e análise do \textit{software} na versão de 2017 para a remodelagem foram concluídos a partir da esquematização das telas em um manual e da diagramação da estrutura do projeto. Também foram realizadas verificação de falhas, prototipação da nova versão, produção do questionário e avanço na implementação \textit{web} a partir da transição para independência do Java Swing.
-
-	\begin{figure}[h]
+	\begin{figure}[!htbp]
 		\centering
-		\includegraphics[scale=0.5]{g1.png}
+		\includegraphics[scale=0.4]{g1.png}
 		\caption{Gráfico relacionado ao \textit{design}.}
 		\label{fig3}
 	\end{figure}
-	\begin{figure}[h]
+		\begin{figure}[!htbp]
 		\centering
-		\includegraphics[scale=0.5]{g2.png}
-		\caption{Gráfico em relação à posição dos blocos.}
+		\includegraphics[scale=0.4]{g2.png}
+		\caption{Gráfico em relação à organização dos blocos.}
 		\label{fig4}
-	\end{figure}	
+	\end{figure}
+
+O protótipo apresentado na Figura~\ref{fig2} foi disponibilizado em um questionário e posteriormente aplicado para alunos do primeiro ano do Curso Técnico Integrado em Informática do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas - Campus Manaus Centro.
+\par Os resultados coletados e explicitados nos gráficos abaixo denotam que, no primeiro momento, os discentes avaliaram a \textit{interface} do \textit{software} e a organização dos blocos de programação, como as Figuras~\ref{fig3} e~\ref{fig4} mostram respectivamente. Posteriormente, os alunos fizeram comentários a respeito do protótipo, tais como: ``Muito bom, fácil de compreender'' e ``Muito interessante, me agradou bastante''. Sugeriram a implementação de um \textit{chat} com a turma e apoiaram a ideia da gamificação com base em exercícios de lógica de programação. 
+\par As avaliações positivas dos alunos quanto ao protótipo demonstram que os mesmos estão aptos ao uso de novas metodologias de ensino dentro da sala de aula. Com esta expectativa, o EasyCode pode corroborar com o incentivo ao aprendizado de lógica de programação, pois a ferramenta visa atender os requisitos da nova geração de interação usuário-computador. 	
 
 \section{Considerações Parciais}
 O EasyCode é um ambiente que proporciona os recursos da programação e da robótica para permitir que alunos com dificuldades em compreender a lógica de programação possam aprender a programar de maneira simples e prática. Espera-se que as mudanças propostas colaborem com o processo de ensino-aprendizagem, por exemplo, permitindo que professores possam demonstrar de forma mais lúdica conceitos da programação e também que ocorra a adequação da abordagem de ensino aos tipos de aprendizagem. 
