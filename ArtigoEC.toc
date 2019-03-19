@@ -1,26 +1,5 @@
 \babel@toc {brazil}{}
-\contentsline {section}{\numberline {1}Escopo}{2}{section.1}
-\contentsline {section}{\numberline {2}Cr\IeC {\'e}ditos aos autores originais}{2}{section.2}
-\contentsline {section}{\numberline {3}Considera\IeC {\c c}\IeC {\~o}es iniciais}{2}{section.3}
-\contentsline {subsection}{\numberline {3.1}Prefira o sistema num\IeC {\'e}rico, se poss\IeC {\'\i }vel}{2}{subsection.3.1}
-\contentsline {subsection}{\numberline {3.2}Cuidado: normas nebulosas!}{2}{subsection.3.2}
-\contentsline {section}{\numberline {4}Como usar a cita\IeC {\c c}\IeC {\~a}o alfab\IeC {\'e}tica (sistema autor-data)}{3}{section.4}
-\contentsline {subsection}{\numberline {4.1}Como chamar os pacotes e estilos}{3}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Como usar a cita\IeC {\c c}\IeC {\~a}o no sistema autor-data}{3}{subsection.4.2}
-\contentsline {subsubsection}{\numberline {4.2.1}Refer\IeC {\^e}ncias expl\IeC {\'\i }citas (\texttt {citeonline}) }{3}{subsubsection.4.2.1}
-\contentsline {subsubsection}{\numberline {4.2.2}Refer\IeC {\^e}ncias a \texttt {organization}}{5}{subsubsection.4.2.2}
-\contentsline {subsubsection}{\numberline {4.2.3}Cita\IeC {\c c}\IeC {\~o}es com autoria dada pelo t\IeC {\'\i }tulo}{5}{subsubsection.4.2.3}
-\contentsline {subsubsection}{\numberline {4.2.4}Refer\IeC {\^e}ncias impl\IeC {\'\i }citas (\texttt {cite})}{6}{subsubsection.4.2.4}
-\contentsline {subsubsection}{\numberline {4.2.5}Refer\IeC {\^e}ncias citadas por outra refer\IeC {\^e}ncia (\texttt {apud})}{7}{subsubsection.4.2.5}
-\contentsline {subsubsection}{\numberline {4.2.6}Cita\IeC {\c c}\IeC {\~o}es em notas de rodap\IeC {\'e}}{7}{subsubsection.4.2.6}
-\contentsline {subsubsection}{\numberline {4.2.7}Uso de idem, ibidem, opus citatum e outros}{7}{subsubsection.4.2.7}
-\contentsline {subsubsection}{\numberline {4.2.8}Refer\IeC {\^e}ncias m\IeC {\'u}ltiplas}{8}{subsubsection.4.2.8}
-\contentsline {subsubsection}{\numberline {4.2.9}M\IeC {\'u}ltiplas refer\IeC {\^e}ncias com mesmo autor-data}{9}{subsubsection.4.2.9}
-\contentsline {subsubsection}{\numberline {4.2.10}Mais de tr\IeC {\^e}s autores e o uso de et al.}{9}{subsubsection.4.2.10}
-\contentsline {subsubsection}{\numberline {4.2.11}Cita\IeC {\c c}\IeC {\~o}es de partes da refer\IeC {\^e}ncia}{10}{subsubsection.4.2.11}
-\contentsline {section}{\numberline {5}Forma\IeC {\c c}\IeC {\~o}es do estilo alfab\IeC {\'e}tico}{10}{section.5}
-\contentsline {section}{\numberline {6}Altera\IeC {\c c}\IeC {\~a}o do estilo alfab\IeC {\'e}tico \texttt {citeoption}}{11}{section.6}
-\contentsline {section}{\numberline {7}Problemas com a `norma' 10520}{11}{section.7}
-\contentsline {subsection}{\numberline {7.1}Refer\IeC {\^e}ncias m\IeC {\'u}ltiplas}{12}{subsection.7.1}
-\contentsline {subsection}{\numberline {7.2}et al.}{13}{subsection.7.2}
-\contentsline {section}{Refer\IeC {\^e}ncias}{13}{subsection.7.2}
+\contentsline {section}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{3}
+\contentsline {section}{\numberline {2}Metodologia}{4}
+\contentsline {section}{\numberline {3}Resultados Parciais e Discuss\IeC {\~a}o}{4}
+\contentsline {section}{\numberline {4}Considera\IeC {\c c}\IeC {\~o}es Parciais}{6}
