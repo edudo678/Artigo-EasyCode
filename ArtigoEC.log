@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  20 MAR 2019 20:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  21 MAR 2019 21:38
 entering extended mode
 **./ArtigoEC.tex
 (ArtigoEC.tex
@@ -330,27 +330,27 @@ Package pdftex.def Info: bloc.png  used on input line 48.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<g1.png, id=17, 656.4525pt x 301.125pt>
+<g1.png, id=17, 659.46375pt x 308.15125pt>
 File: g1.png Graphic file (type png)
 <use g1.png>
 Package pdftex.def Info: g1.png  used on input line 57.
-(pdftex.def)             Requested size: 262.57634pt x 120.44786pt.
+(pdftex.def)             Requested size: 329.73106pt x 154.07524pt.
 
-Underfull \hbox (badness 1931) in paragraph at lines 54--61
-\OT1/ptm/m/n/12 O prot[]otipo apresentado na Figura 2[] foi disponibilizado em 
-um question[]ario e
+Underfull \hbox (badness 1127) in paragraph at lines 54--61
+\OT1/ptm/m/n/12 No primeiro bimestre do ano de 2019, o prot[]otipo apresentado 
+na Figura 2[] foi
  []
 
 [2 <./2017.png>]
-<g2.png, id=24, 646.415pt x 301.125pt>
+<g2.png, id=24, 654.445pt x 311.1625pt>
 File: g2.png Graphic file (type png)
 <use g2.png>
 Package pdftex.def Info: g2.png  used on input line 64.
-(pdftex.def)             Requested size: 258.56142pt x 120.44786pt.
+(pdftex.def)             Requested size: 327.2217pt x 155.58087pt.
 
-Underfull \hbox (badness 2237) in paragraph at lines 71--72
-\OT1/ptm/m/n/12 colaborem com o processo de ensino-aprendizagem, permitindo que
- professores
+Underfull \hbox (badness 2119) in paragraph at lines 71--72
+\OT1/ptm/m/n/12 mais pr[]atica. Espera-se que as mudan[]as propostas permitam q
+ue professores
  []
 
 [3 <./bloc.png> <./g1.png (PNG copy)>] (ArtigoEC.bbl) [4 <./g2.png (PNG copy)>]
@@ -375,7 +375,7 @@ do/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/eduardo/.mikt
 ex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/eduardo/.miktex/texm
 fs/install/fonts/type1/urw/times/utmr8a.pfb></home/eduardo/.miktex/texmfs/insta
 ll/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ArtigoEC.pdf (4 pages, 522305 bytes).
+Output written on ArtigoEC.pdf (4 pages, 521770 bytes).
 PDF statistics:
  67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
