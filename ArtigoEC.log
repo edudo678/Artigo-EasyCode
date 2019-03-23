@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  21 MAR 2019 22:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  23 MAR 2019 16:22
 entering extended mode
 **./ArtigoEC.tex
 (ArtigoEC.tex
@@ -269,12 +269,42 @@ G,.JBIG2,.JB2,.eps]
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <16> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
+LaTeX Font Info:    Calculating math sizes for size <16> on input line 20.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <16> not available
+(Font)              size <17.28> substituted on input line 20.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 20.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <16> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <11.19995> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 20.
+(/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <11.19995> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 20.
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <7> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 20.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 20.
@@ -289,10 +319,6 @@ File: omspcr.fd
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 20.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 20.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 22.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
@@ -303,12 +329,16 @@ Underfull \hbox (badness 1122) in paragraph at lines 31--32
 ]ao variam desde a
  []
 
-<2017.png, id=1, 1017.8025pt x 616.3025pt>
+[1
+
+{/home/eduardo/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+<2017.png, id=15, 1017.8025pt x 616.3025pt>
 File: 2017.png Graphic file (type png)
 <use 2017.png>
 Package pdftex.def Info: 2017.png  used on input line 36.
 (pdftex.def)             Requested size: 407.1138pt x 246.51663pt.
 LaTeX Font Info:    Try loading font information for OT1+phv on input line 37.
+
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
@@ -318,10 +348,7 @@ LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/it' tried instead on input line 37.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
 (Font)              Font shape `OT1/phv/b/sl' tried instead on input line 37.
- [1
-
-{/home/eduardo/.miktex/texmfs/data/pdftex/config/pdftex.map}]
-<bloc.png, id=16, 1371.1225pt x 650.43pt>
+<bloc.png, id=17, 1371.1225pt x 650.43pt>
 File: bloc.png Graphic file (type png)
 <use bloc.png>
 Package pdftex.def Info: bloc.png  used on input line 48.
@@ -330,7 +357,7 @@ Package pdftex.def Info: bloc.png  used on input line 48.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<g1.png, id=17, 659.46375pt x 308.15125pt>
+<g1.png, id=18, 659.46375pt x 308.15125pt>
 File: g1.png Graphic file (type png)
 <use g1.png>
 Package pdftex.def Info: g1.png  used on input line 57.
@@ -342,7 +369,7 @@ na Figura 2[] foi
  []
 
 [2 <./2017.png>]
-<g2.png, id=24, 654.445pt x 311.1625pt>
+<g2.png, id=25, 654.445pt x 311.1625pt>
 File: g2.png Graphic file (type png)
 <use g2.png>
 Package pdftex.def Info: g2.png  used on input line 64.
@@ -354,30 +381,36 @@ ue professores
  []
 
 [3 <./bloc.png> <./g1.png (PNG copy)>] (ArtigoEC.bbl) [4 <./g2.png (PNG copy)>]
-(ArtigoEC.aux) ) 
+(ArtigoEC.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4479 strings out of 494888
- 67280 string characters out of 3178518
- 141548 words of memory out of 3000000
- 8023 multiletter control sequences out of 15000+200000
- 22792 words of font info for 46 fonts, out of 3000000 for 9000
+ 4514 strings out of 494888
+ 67879 string characters out of 3178518
+ 140574 words of memory out of 3000000
+ 8053 multiletter control sequences out of 15000+200000
+ 26714 words of font info for 55 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
  43i,9n,40p,1035b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/home/eduardo/.miktex/texmfs/install/fonts/enc/dvips/base/8r.e
-nc}</home/eduardo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.p
-fb></home/eduardo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.p
-fb></home/eduardo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pf
-b></home/eduardo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.p
-fb></home/eduardo/.miktex/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></h
-ome/eduardo/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/e
-duardo/.miktex/texmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb></home/eduar
-do/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/eduardo/.mikt
-ex/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb></home/eduardo/.miktex/texm
-fs/install/fonts/type1/urw/times/utmr8a.pfb></home/eduardo/.miktex/texmfs/insta
-ll/fonts/type1/urw/times/utmri8a.pfb>
-Output written on ArtigoEC.pdf (4 pages, 521770 bytes).
+{/home/eduardo/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/edua
+rdo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/edua
+rdo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/edua
+rdo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/eduar
+do/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/edua
+rdo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy7.pfb></home/edua
+rdo/.miktex/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></home/eduardo/.m
+iktex/texmfs/install/fonts/type1/urw/helvetic/uhvb8a.pfb></home/eduardo/.miktex
+/texmfs/install/fonts/type1/urw/helvetic/uhvbo8a.pfb></home/eduardo/.miktex/tex
+mfs/install/fonts/type1/urw/times/utmb8a.pfb></home/eduardo/.miktex/texmfs/inst
+all/fonts/type1/urw/times/utmbi8a.pfb></home/eduardo/.miktex/texmfs/install/fon
+ts/type1/urw/times/utmr8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1
+/urw/times/utmri8a.pfb>
+Output written on ArtigoEC.pdf (4 pages, 530272 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
+ 71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
