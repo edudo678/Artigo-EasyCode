@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  23 MAR 2019 16:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.1)  23 MAR 2019 20:59
 entering extended mode
 **./ArtigoEC.tex
 (ArtigoEC.tex
@@ -321,37 +321,37 @@ LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 20.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/it' tried instead on input line 22.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 
-Underfull \hbox (badness 1122) in paragraph at lines 31--32
-\OT1/ptm/m/n/12 As dificuldades que inviabilizam a compreens[]ao da programa[][
-]ao variam desde a
+Underfull \hbox (badness 1062) in paragraph at lines 27--28
+\OT1/ptm/m/it/12 consistir[]a na programa[][]ao visual com base em blocos de pr
+ograma[][]ao,
  []
 
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <13> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 30.
 [1
 
 {/home/eduardo/.miktex/texmfs/data/pdftex/config/pdftex.map}]
 <2017.png, id=15, 1017.8025pt x 616.3025pt>
 File: 2017.png Graphic file (type png)
 <use 2017.png>
-Package pdftex.def Info: 2017.png  used on input line 36.
+Package pdftex.def Info: 2017.png  used on input line 35.
 (pdftex.def)             Requested size: 407.1138pt x 246.51663pt.
-LaTeX Font Info:    Try loading font information for OT1+phv on input line 37.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 36.
 
 (/home/eduardo/.miktex/texmfs/install/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
 )
 LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <10> not available
-(Font)              Font shape `OT1/phv/b/n' tried instead on input line 37.
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/it' tried instead on input line 37.
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <10> not available
-(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 37.
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 36.
 <bloc.png, id=17, 1371.1225pt x 650.43pt>
 File: bloc.png Graphic file (type png)
 <use bloc.png>
-Package pdftex.def Info: bloc.png  used on input line 48.
+Package pdftex.def Info: bloc.png  used on input line 47.
 (pdftex.def)             Requested size: 411.33992pt x 195.1305pt.
 
 
@@ -360,10 +360,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <g1.png, id=18, 659.46375pt x 308.15125pt>
 File: g1.png Graphic file (type png)
 <use g1.png>
-Package pdftex.def Info: g1.png  used on input line 57.
+Package pdftex.def Info: g1.png  used on input line 56.
 (pdftex.def)             Requested size: 329.73106pt x 154.07524pt.
 
-Underfull \hbox (badness 1127) in paragraph at lines 54--61
+Underfull \hbox (badness 1127) in paragraph at lines 53--60
 \OT1/ptm/m/n/12 No primeiro bimestre do ano de 2019, o prot[]otipo apresentado 
 na Figura 2[] foi
  []
@@ -372,10 +372,10 @@ na Figura 2[] foi
 <g2.png, id=25, 654.445pt x 311.1625pt>
 File: g2.png Graphic file (type png)
 <use g2.png>
-Package pdftex.def Info: g2.png  used on input line 64.
+Package pdftex.def Info: g2.png  used on input line 63.
 (pdftex.def)             Requested size: 327.2217pt x 155.58087pt.
 
-Underfull \hbox (badness 2119) in paragraph at lines 71--72
+Underfull \hbox (badness 2119) in paragraph at lines 70--71
 \OT1/ptm/m/n/12 mais pr[]atica. Espera-se que as mudan[]as propostas permitam q
 ue professores
  []
@@ -394,7 +394,7 @@ Here is how much of TeX's memory you used:
  8053 multiletter control sequences out of 15000+200000
  26714 words of font info for 55 fonts, out of 3000000 for 9000
  0 hyphenation exceptions out of 8191
- 43i,9n,40p,1035b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,9n,40p,1092b,354s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/home/eduardo/.miktex/texmfs/install/fonts/enc/dvips/base/8r.enc}</home/edua
 rdo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></home/edua
 rdo/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/edua
@@ -408,7 +408,7 @@ mfs/install/fonts/type1/urw/times/utmb8a.pfb></home/eduardo/.miktex/texmfs/inst
 all/fonts/type1/urw/times/utmbi8a.pfb></home/eduardo/.miktex/texmfs/install/fon
 ts/type1/urw/times/utmr8a.pfb></home/eduardo/.miktex/texmfs/install/fonts/type1
 /urw/times/utmri8a.pfb>
-Output written on ArtigoEC.pdf (4 pages, 530272 bytes).
+Output written on ArtigoEC.pdf (4 pages, 530321 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
